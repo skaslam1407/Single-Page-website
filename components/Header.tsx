@@ -7,9 +7,9 @@ const Header = () => {
        
         <header>
              <TopNavbar/>
-            <div className="logo">
+         {/*<div className="logo">
                 <img src="/logo.jpg" alt="Logo" />
-            </div>
+    </div> */}
           <Navbar/>
         </header>
     );
